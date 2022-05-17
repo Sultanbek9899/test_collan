@@ -78,6 +78,3 @@ print(""".
 
 print('один 1')
 print('два 2')
-
-print('Changes from Askar')
-print("Услышьте глухой зов тех, кто сидит онлайн!")
