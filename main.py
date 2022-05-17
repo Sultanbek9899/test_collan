@@ -71,12 +71,9 @@ print(""".
 
  """)
 
-print("Мой код")
-print("Мой код 2")
-
-print("Azamat  зачем ты запушил ENV???")
 
 
-print('Это Рустем)')
 
-print('Urmat')
+
+print('один 1')
+print('два 2')
