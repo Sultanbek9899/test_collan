@@ -80,4 +80,7 @@ print('один 1')
 print('два 2')
 
 print('Changes from Askar')
+<<<<<<< HEAD
 print("Услышьте глухой зов тех, кто сидит онлайн!")
+=======
+>>>>>>> 28c164f ((Urmat))
