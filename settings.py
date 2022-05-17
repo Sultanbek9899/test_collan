@@ -1,0 +1,1 @@
+print('registration of 501')
