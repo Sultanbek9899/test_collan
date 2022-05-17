@@ -1,4 +1,3 @@
- # [o, o, a]
 for i in range(1,200):
     print(i)
 print('My code 0')
