@@ -13,3 +13,6 @@ print("hello world")
 print("Мой код")
 print("Мой код 2")
 
+
+
+print('Это Рустем)')
