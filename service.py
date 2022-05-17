@@ -1,1 +1,3 @@
-print("My name is Sadbringer")
+print('Login from Askar')
+
+print("mlvkmlkvd vdnsdf,fE EGEJOITQNFE lmt ;oiWt .g' fQ;0;lw hfEFJQLfqnefmoa")
